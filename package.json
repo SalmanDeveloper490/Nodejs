@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Learning Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "nodejs",
+    "learning",
+    "crash",
+    "course"
+  ],
+  "author": "Salman",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  },
+  "dependencies": {
+    "cli-color": "^2.0.0"
+  }
+}
